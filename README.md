@@ -1,4 +1,4 @@
-# PRACTICAL LAB FILE 
+# Web Tech LAB FILE 
 
 Following repo contains the list and practical for the web technologies for below mentioned details
 
